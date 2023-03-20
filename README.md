@@ -1,0 +1,1 @@
+# Encryption-of-grayscale-images-using-visual-cryptography-with-bit-plane-slicing-and-machine-learning
